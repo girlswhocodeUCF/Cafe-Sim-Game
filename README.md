@@ -30,8 +30,6 @@
 ![alt text](Presentation/6.png)
 ![alt text](Presentation/7.png)
 ![alt text](Presentation/8.png)
-![alt text](Presentation/10.png)
-![alt text](Presentation/11.png)
-![alt text](Presentation/12.png)
+
 
 
